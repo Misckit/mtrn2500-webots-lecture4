@@ -11,4 +11,7 @@ build/release/EPuckGreenPlusController.o: EPuckGreenPlusController.cpp \
   /Applications/Webots.app/Contents/include/controller/cpp/webots/Keyboard.hpp \
   /Applications/Webots.app/Contents/include/controller/cpp/webots/GPS.hpp \
   /Applications/Webots.app/Contents/include/controller/cpp/webots/Display.hpp \
-  /Applications/Webots.app/Contents/include/controller/cpp/webots/ImageRef.hpp
+  /Applications/Webots.app/Contents/include/controller/cpp/webots/ImageRef.hpp \
+  /Applications/Webots.app/Contents/include/controller/cpp/webots/Compass.hpp \
+  /Applications/Webots.app/Contents/include/controller/cpp/webots/Lidar.hpp \
+  /Applications/Webots.app/Contents/include/controller/cpp/webots/../../c/webots/lidar_point.h
