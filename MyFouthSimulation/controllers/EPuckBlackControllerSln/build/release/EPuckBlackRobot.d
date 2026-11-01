@@ -1,9 +1,9 @@
 build/release/EPuckBlackRobot.o: EPuckBlackRobot.cpp EPuckBlackRobot.hpp \
- ../EPuckRobotSln/EPuckRobot.hpp \
- C:\Program\ Files\Webots/include/controller/cpp/webots/Robot.hpp \
- C:/Program\ Files/Webots/include/controller/c/webots/types.h \
- C:\Program\ Files\Webots/include/controller/cpp/webots/Motor.hpp \
- C:\Program\ Files\Webots/include/controller/cpp/webots/Device.hpp \
- C:\Program\ Files\Webots/include/controller/cpp/webots/DistanceSensor.hpp \
- C:\Program\ Files\Webots/include/controller/cpp/webots/Emitter.hpp \
- C:\Program\ Files\Webots/include/controller/cpp/webots/Receiver.hpp
+  ../EPuckRobotSln/EPuckRobot.hpp \
+  /Applications/Webots.app/Contents/include/controller/cpp/webots/Robot.hpp \
+  /Applications/Webots.app/Contents/include/controller/cpp/webots/../../c/webots/types.h \
+  /Applications/Webots.app/Contents/include/controller/cpp/webots/Motor.hpp \
+  /Applications/Webots.app/Contents/include/controller/cpp/webots/Device.hpp \
+  /Applications/Webots.app/Contents/include/controller/cpp/webots/DistanceSensor.hpp \
+  /Applications/Webots.app/Contents/include/controller/cpp/webots/Emitter.hpp \
+  /Applications/Webots.app/Contents/include/controller/cpp/webots/Receiver.hpp
